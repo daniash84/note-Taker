@@ -24,12 +24,15 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 **scenario-oriented criteria** 
 
 ### Deployment
-[Live]
+[Live] https://daniash84.github.io/note-Taker/
 
 
 
 #### Screenshots
-![Image]
+![Image] https://github.com/daniash84/note-Taker/blob/main/public/assets/screenshots/Screenshot%202023-09-04%20110829.jpg
 
 #### Resources:
-[Semantic Elements] 
+w3schools
+mdn
+youtube
+github
